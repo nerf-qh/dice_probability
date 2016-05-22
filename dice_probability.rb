@@ -37,7 +37,7 @@ def main
   pp "Dice count: #{n}"
   pp "Sum: #{m}"
   probability = calc(n, m)
-  pp "Probability: #{probability}"
+  pp "Probability: %.10f" % probability
 end
 
 main if __FILE__ == $PROGRAM_NAME
