@@ -8,7 +8,7 @@ time ruby dice_probability.rb 100 400
 
 "Sum: 400"
 
-"Probability: 0.0003172139"
+"Probability: 0.00031721391263693261"
 
 
 real	0m0.179s
@@ -26,7 +26,7 @@ time ruby dice_probability.rb 300 1300
 
 "Sum: 1300"
 
-"Probability: 0.0000000000"
+"Probability: 0.00000000000000000174"
 
 
 real	0m0.985s
